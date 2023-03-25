@@ -10,4 +10,4 @@ This repo can be reached at the following URL: https://garnieri.github.io/kroger
 *Kroger Field from above with measured playing field data*
 
 ![Screen capture of Kroger Field animation](animation.jpg)     
-*[Kroger Field Flyover]()*
+*[Kroger Field Flyover](https://youtu.be/Cjd3npT61r0)*
